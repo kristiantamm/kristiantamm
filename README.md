@@ -1,6 +1,3 @@
-## Readme Script 
-
-
 # Hi there 👋 Kristian here!
 
 <p align="center">
@@ -16,8 +13,7 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kristiantamm&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ### Languages and Platforms 🦄
 
