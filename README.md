@@ -13,9 +13,9 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kristiantamm&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.2&count_weight=0.8)
 
-### Languages and Platforms 🦄
+### Languages and Platforms
 
 <code><img height="40" src="https://abrudz.github.io/logos/Python.svg"></code>
 <code><img height="40" src="https://abrudz.github.io/logos/Java.svg"></code>
@@ -24,4 +24,3 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 <code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg"></code>
 <code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg"></code>
 <code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg"></code>
-<code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg"></code>
