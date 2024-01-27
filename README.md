@@ -30,7 +30,7 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 <p>- Python workflow to filter and analyse client transaction data</p>
 <h3>Python Web Scraper for Traveling - <a href="https://github.com/kristiantamm/Proge1_Ryhmatoo_ReisiSkanner">repo</a></h3>
 <p>- Finds best tickets and hotels based on the travel destination and dates</p>
-<p>Simple GUI</p>
+<p>- Simple GUI</p>
 
 <h2>👨‍💻Languages and Frameworks</h2>
 
