@@ -16,7 +16,13 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.2&count_weight=0.8)
 
 <h2>🚧Projects</h2>
-
+<h3>Cinema web app(In development) - <a href="https://github.com/kristiantamm/CinemaApp">repo</a></h3>
+<p>- React.js - frontend</p>
+<p>- Java Spring Boot - backend</p>
+<p>- MongoDB - database</p>
+<h3>Python Airbnb bot(In development)- <a href="https://github.com/kristiantamm/CinemaApp">repo</a></h3>
+<p>- Using an API finds new listings</p>
+<p>- Sends email with closest new airbnb's to the event</p>
 <h3>Java Budget Application - <a href="https://github.com/HMaandi/OOP_ryhmatoo_2023">repo</a></h3>
 <p>- CLI</p>
 <p>- Backend that keeps track of a leaderboard between users</p>
