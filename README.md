@@ -1,4 +1,4 @@
-# Hi there 👋 Kristian here!
+# Kristian Tamm
 
 <p align="center">
 
@@ -8,15 +8,17 @@
 Estonian 2nd year Bachelors student in Computer Science. To know more about me, visit: <a href="https://www.linkedin.com/in/tammkristian/">LinkedIn</a>.
 </h3>
 
-- 🌱 I’m currently learning Data Structures and Algorithms, Data Science, Software Engineering and Web App Development.
-- 🤝 I’m looking for internships this summer
+- I’m currently learning Data Structures and Algorithms, Data Science, Software Engineering and Web App Development.
+- I’m looking for internships this summer
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kristiantamm&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.2&count_weight=0.8)
 
 <h2>🚧Projects</h2>
-<h3>Cinema web app(In development) - <a href="https://github.com/kristiantamm/CinemaApp">repo</a></h3>
+<h3>Angular Reactive Form - <a href="https://github.com/kristiantamm/angular-form">repo</a></h3>
+<p>- First Angular Project</p>
+<h3>Cinema web app - <a href="https://github.com/kristiantamm/CinemaApp">repo</a></h3>
 <p>- React.js - frontend</p>
 <p>- Java Spring Boot - backend</p>
 <p>- MongoDB - database</p>
@@ -37,13 +39,3 @@ Estonian 2nd year Bachelors student in Computer Science. To know more about me, 
 <h3>Python Web Scraper for Traveling - <a href="https://github.com/kristiantamm/Proge1_Ryhmatoo_ReisiSkanner">repo</a></h3>
 <p>- Finds best tickets and hotels based on the travel destination and dates</p>
 <p>- Simple GUI</p>
-
-<h2>👨‍💻Languages and Frameworks</h2>
-
-<code><img height="40" src="https://abrudz.github.io/logos/Python.svg"></code>
-<code><img height="40" src="https://abrudz.github.io/logos/Java.svg"></code>
-<code><img height="40" src="https://abrudz.github.io/logos/JS.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/vuejs.svg"></code>
-<code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg"></code>
-<code><img height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg"></code>
