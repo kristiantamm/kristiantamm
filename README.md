@@ -1,5 +1,3 @@
-# Kristian Tamm
-
 <p align="center">
 
   <img src="https://github.com/kristiantamm/kristiantamm/assets/66665144/d2afa21e-8135-4589-b665-7f027f83433e" height="400px" width="800px">
