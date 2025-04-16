@@ -13,6 +13,8 @@ Estonian 3rd year Bachelors student in Computer Science. To know more about me, 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.2&count_weight=0.8)
 
 <h2>🚧Projects</h2>
+<h3>Autonomus Driving Project using Donkey Car - <a href="https://github.com/carlbogo/LYFTcar">repo</a></h3>
+<p>- <a href="https://medium.com/@christjan.bogoslovski/accessing-elevators-via-donkey-car-as-a-project-for-testing-autonomous-driving-e433554bd7ab" >Medium article</a> explaining the project</p>
 <h3>Angular Reactive Form - <a href="https://github.com/kristiantamm/angular-form">repo</a></h3>
 <p>- First Angular Project</p>
 <h3>Cinema web app - <a href="https://github.com/kristiantamm/CinemaApp">repo</a></h3>
