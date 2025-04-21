@@ -9,7 +9,7 @@ Estonian 3rd year Bachelors student in Computer Science. To know more about me, 
 - Working at Cybernetica as a junior programmer. Work related with Data Synthesis, Kubernetes and Kubeflow
 
 <h2>📊Stats</h2>
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=kristiantamm&theme=highcontrast&show_icons=true&count_private=true)-->
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantamm&layout=compact&size_weight=0.2&count_weight=0.8)
 
 <h2>🚧Projects</h2>
